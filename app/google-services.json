@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325068643533",
+    "firebase_url": "https://basic-chat-app-6ba0a.firebaseio.com",
+    "project_id": "basic-chat-app-6ba0a",
+    "storage_bucket": "basic-chat-app-6ba0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325068643533:android:3172865349f10446135d84",
+        "android_client_info": {
+          "package_name": "com.workforashif.basicchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325068643533-vrm0eslqoekkki26e3it0meis9ssrfk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQupvBg8jmZH1BCy-eItyImr2jd0Bx8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325068643533-vrm0eslqoekkki26e3it0meis9ssrfk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
